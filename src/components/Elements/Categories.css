@@ -1,0 +1,50 @@
+.category-page {
+    padding: 20px;
+}
+
+.category-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.add-category-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.category-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.category-card {
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+}
+
+.category-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.category-card p {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}

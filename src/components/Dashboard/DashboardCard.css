@@ -1,0 +1,39 @@
+.icon-wrapper {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: white; 
+}
+
+.bg-light-blue {
+    background: linear-gradient(to right, #E6F9FF, #FEFFFF);
+     
+}
+
+.bg-light-purple {
+    background: linear-gradient(to right, #F7E9FF, #FFFEFD);
+     
+}
+
+.bg-light-pink {
+    background: linear-gradient(to right, #E6EBFF, #FFFFFF);
+     
+}
+
+.bg-light-green {
+    background: linear-gradient(to right, #E8FFF5, #FFFFFF);
+    
+}
+
+.bg-light-orange {
+    background: linear-gradient(to right, #E8FFF5, #FFFFFF);
+}
+
+.icon-wrapper {
+    vertical-align: middle;
+}
+
+  
